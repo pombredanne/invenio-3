@@ -1,0 +1,37 @@
+Metadata-Version: 1.1
+Name: invenio
+Version: 2.1.1
+Summary: Invenio digital library framework
+Home-page: https://github.com/inveniosoftware/invenio
+Author: CERN
+Author-email: info@invenio-software.org
+License: GPLv2
+Description: Invenio is a framework for digital libraries and data repositories.
+        
+        Invenio enables you to run your own digital library or document
+        repository on the web.  Invenio covers all aspects of digital library
+        management, from document ingestion, through classification, indexing
+        and further processing, to curation, archiving, and dissemination.
+        The flexibility and performance of Invenio make it a comprehensive
+        solution for management of document repositories of moderate to large
+        sizes (several millions of records).
+        
+        Links
+        -----
+        
+        * `website <http://invenio-software.org/>`_
+        * `documentation <http://invenio.readthedocs.org/en/latest/>`_
+        * `development <https://github.com/inveniosoftware/invenio>`_
+        
+        
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
